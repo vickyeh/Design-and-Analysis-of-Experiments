@@ -1,10 +1,8 @@
-## Design and Analysis of Experiments
-
-# Course Overview
+# Design and Analysis of Experiments
 
 This course is offered by the **Department of Statistics** at the **University of Washington**.
 
-# Focus Areas
+## Focus Areas
 
 - **Design of Experiments:**  
   Covering essential concepts such as:
@@ -18,7 +16,7 @@ This course is offered by the **Department of Statistics** at the **University o
   - Analysis of variance (ANOVA)
   - Analysis of covariance
 
-# Learning Outcomes
+## Learning Outcomes
 
 By the end of the course, I gain insights from experimental data and develop a strong foundation in statistical methods.
 
